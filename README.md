@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/5318a376-cff8-4f6e-acc2-213db3e99805" />
 
 
 # 👋 Hi, I'm Gangadhar Panda
