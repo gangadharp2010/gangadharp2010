@@ -1,103 +1,150 @@
+<!-- Profile README for https://github.com/gangadharp2010 -->
+
 <img width="1199" height="1312" alt="Gangadhar Panda banner" src="https://github.com/user-attachments/assets/5318a376-cff8-4f6e-acc2-213db3e99805" />
 
 # 👋 Hi, I'm Gangadhar Panda
 
-### AI/ML Engineer | Generative AI | Agentic AI | Data Science | MLOps
+### Senior Lead Engineer | AI/ML & Generative AI Engineer | Agentic AI | Distributed Systems
 
-**Engineering intelligent systems. Building AI products. Automating real-world workflows.**
+**15+ years building scalable software systems — now applying that engineering experience to practical AI, ML, and intelligent automation.**
 
-I design and deliver practical AI and data solutions that connect software engineering, machine learning, LLMs, automation, and cloud-native deployment.
+I work across enterprise software engineering, machine learning, Generative AI, and cloud-native application development. My focus is turning business problems into maintainable, observable, production-oriented solutions.
 
-- 15+ years of software engineering experience
-- Strong background in .NET, Python, distributed systems, and cloud applications
-- Current focus: Generative AI, RAG, Agentic AI, MLOps, and AI workflow automation
-
-🎯 Mission: transform business challenges into scalable, data-driven, AI-powered systems.
+- Senior Lead Engineer with strong .NET / C# and distributed-systems background
+- Hands-on development with Python, machine learning, LLM applications, RAG, and agents
+- Interested in the full AI lifecycle: data preparation, experimentation, evaluation, APIs, containers, CI/CD, and cloud deployment
 
 ---
 
-## 🚀 Latest Projects
+## 🚀 Implemented AI & Engineering Projects
 
-Here are my recent and active project builds across AI, ML, agentic systems, cloud automation, and MLOps.
+The projects below are grouped by the problems they address. Links point to repositories or project folders that are present in GitHub.
 
-| Project | Domain | Highlights |
-|---|---|---|
-| [AIPRACTICE](https://github.com/gangadharp2010/AIPRACTICE) | AI Practice | Hands-on AI experiments, notebooks, learning projects, model exploration |
-| [AIPROJECT](https://github.com/gangadharp2010/AIPROJECT) | AI Solutions | Applied AI project work covering practical use cases and prototypes |
-| [trip_buddy_agent](https://github.com/gangadharp2010/trip_buddy_agent) | Agentic AI | Travel assistant agent with intelligent workflows, tools, and AI-driven assistance |
-| [MCP-Implementation](https://github.com/gangadharp2010/MCP-Implementation) | MCP / Tooling | Model Context Protocol implementation and tool integration patterns |
-| [Containerizing-Air-Quality-Alert-Services](https://github.com/gangadharp2010/Containerizing-Air-Quality-Alert-Services) | Cloud + Data | Containerized air-quality alert services and operational deployment patterns |
-| [noshow-mlflow](https://github.com/gangadharp2010/noshow-mlflow) | MLOps | ML pipeline, experiment tracking, and model lifecycle management with MLflow |
-| [water-main-burst-mlflow](https://github.com/gangadharp2010/water-main-burst-mlflow) | Predictive Analytics | Predictive maintenance and monitoring using MLflow-based workflows |
-| [pumpwatch](https://github.com/gangadharp2010/pumpwatch) | Industrial AI | Monitoring and predictive intelligence for operational systems |
-| [fin-project](https://github.com/gangadharp2010/fin-project) | Financial AI | Financial data processing, analytics, and predictive modeling |
-| [openenv-invoice-agent](https://github.com/gangadharp2010/openenv-invoice-agent) | AI Automation | Invoice processing agent with automation and AI-assisted operations |
-| [frostline_withcicd_flow](https://github.com/gangadharp2010/frostline_withcicd_flow) | CI/CD & DevOps | Workflow automation and continuous delivery patterns |
+### 1. Agentic AI, LLM Applications & RAG
 
----
+| Project | What it demonstrates |
+|---|---|
+| [Agentic AI Inventory Planning System](https://github.com/gangadharp2010/AIPRACTICE/tree/main/agentic-ai-inventory-planning-system) | Inventory-oriented agent workflow, business-data/tool integration, and structured decision support |
+| [Trip Buddy AI](https://github.com/gangadharp2010/trip_buddy_agent) | Conversational travel assistant with MCP tools, RAG knowledge retrieval, SQLite conversation memory, budgeting, and Gradio UI |
+| [Domain-Specific RAG](https://github.com/gangadharp2010/AIPROJECT/tree/main/10.Build%20a%20Domain%20Specific%20RAG) | Retrieval-augmented generation for a focused knowledge domain |
+| [RAG Assignment & Experiments](https://github.com/gangadharp2010/AIPRACTICE/tree/main/rag_assignment) | Practical RAG pipeline exercises and retrieval-oriented implementation |
+| [MCP Implementation](https://github.com/gangadharp2010/MCP-Implementation) | Model Context Protocol implementation and tool-integration exploration |
+| [Invoice Agent](https://github.com/gangadharp2010/openenv-invoice-agent) | Invoice-focused AI agent project |
 
-## 🧠 Core Expertise
+### 2. Machine Learning, Predictive Analytics & Recommendation
 
-### AI & Data
+| Project | Problem / capability |
+|---|---|
+| [Ad Click Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/03.Ad%20click%20prediction) | Predicting advertising click-through behavior from campaign and user-context features |
+| [Uber AI Solutions](https://github.com/gangadharp2010/AIPROJECT/tree/main/04.AI%20Solutions%20for%20Uber) | Applying analytics and ML to ride-hailing use cases |
+| [YouTube Shorts Performance Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/05.YouTube%20Shorts%20Performance%20Prediction) | Modeling content-performance outcomes |
+| [Amazon Product Recommendation System](https://github.com/gangadharp2010/AIPROJECT/tree/main/06.Amazon%20Product%20Recommendation%20System) | Product recommendation and personalization |
+| [Sales Campaign Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/12.Predicting%20Sales%20from%20Campaign%20Data) | Predicting sales outcomes from campaign data |
+| [No-Show Prediction with MLflow](https://github.com/gangadharp2010/noshow-mlflow) | Appointment no-show classification, model evaluation, and hyperparameter search |
+| [Water Main Burst Prediction](https://github.com/gangadharp2010/water-main-burst-mlflow) | Ranking water mains by burst risk to help prioritize preventive inspections |
+| [Air Quality Alert Service](https://github.com/gangadharp2010/Containerizing-Air-Quality-Alert-Services) | ML-backed air-quality alert service packaged for containerized execution |
+| [Frostline — Frost Alert API](https://github.com/gangadharp2010/frostline_withcicd_flow) | FastAPI prediction service returning frost probability and an alert decision; repository documents AWS ECS Fargate deployment |
 
-- Machine Learning
-- Deep Learning
-- Predictive Analytics
-- Feature Engineering
-- Model Evaluation
-- Time-Series and Forecasting
+### 3. Computer Vision, Fine-Tuning & Specialized AI
 
-### Generative AI
+| Project | Problem / capability |
+|---|---|
+| [Street View Blurring System (YOLOv8)](https://github.com/gangadharp2010/AIPROJECT/tree/main/07.Street%20View%20Blurring%20System(yolo%208)) | Computer-vision-based detection for privacy-oriented image blurring |
+| [TuneCraft — LoRA Fine-Tuning](https://github.com/gangadharp2010/AIPROJECT/tree/main/11.Project%20TuneCraft( LORA%20FINE%20TUNING)) | Parameter-efficient fine-tuning experiments using LoRA |
+| [Vendor Verdict AI](https://github.com/gangadharp2010/AIPROJECT/tree/main/13.Vendor-Verdict-AI) | AI-assisted vendor assessment / decision-support project |
 
-- LLMs and Prompt Engineering
-- RAG Architecture
-- Embeddings and Semantic Search
-- Vector Databases
-- Fine-tuning / PEFT
-- Agentic AI workflows
+### 4. Business Analytics & Applied Data Science
 
-### MLOps & Cloud
-
-- MLflow
-- Docker
-- Kubernetes
-- CI/CD
-- AWS / Azure AI services
-- Cloud-native AI deployment
-
-### Automation & Architecture
-
-- n8n workflow automation
-- MCP and A2A patterns
-- Multi-agent orchestration
-- Event-driven integrations
-- API-driven AI systems
+| Project | Problem / capability |
+|---|---|
+| [E-commerce Marketing & Sales](https://github.com/gangadharp2010/AIPROJECT/tree/main/01.E-commerce%20Marketing%20and%20sales) | E-commerce sales and marketing analysis |
+| [CO₂ Emission Analysis](https://github.com/gangadharp2010/AIPROJECT/tree/main/02.CO2%20emission) | Data analysis of emissions |
+| [Country Segmentation for Global Development](https://github.com/gangadharp2010/AIPROJECT/tree/main/08.Uncovering%20Hidden%20Country%20Segments%20for%20Global%20Development%20Strategy) | Segmentation and data-driven strategic insights |
+| [Ad Targeting System](https://github.com/gangadharp2010/AIPROJECT/tree/main/09.Ad%20Targeting%20System) | Audience targeting and campaign-oriented analytics |
+| [Financial Fundamental Analysis Agent](https://github.com/gangadharp2010/fin-project) | Agent-oriented company research and DCF scenario analysis with generated reports |
 
 ---
 
-## 🛠️ Technology Stack
+## 🧩 Engineering & MLOps Foundations
 
+I approach AI projects as software systems, not just notebooks. The following repositories show work around packaging, serving, tracking, automation, and deployment:
+
+- **Model development & evaluation:** training pipelines, train/test evaluation, cross-validation, model comparisons, and hyperparameter search.
+- **Model tracking and artifacts:** MLflow-oriented project work and model artifact management.
+- **API serving:** FastAPI-based prediction endpoints and health checks.
+- **Containers:** Dockerfiles and containerized application services.
+- **Cloud deployment:** AWS ECS Fargate deployment documented in the Frostline project; exploration of Azure AI/cloud services.
+- **CI/CD:** workflow and deployment automation patterns.
+- **Application engineering:** Python services alongside .NET, C#, Angular, APIs, relational databases, and distributed systems.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### AI, ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
+
+### Generative AI & Agentic Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5A5A5A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge)
+
+LLM application design, prompt engineering, retrieval pipelines, embeddings, semantic search, vector stores, tool calling, agent orchestration, and LoRA / PEFT experimentation.
+
+### Backend & Application Engineering
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6940A5?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+
+REST APIs, microservices, event-driven architecture, distributed systems, and service integration.
+
+### Data & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### MLOps, DevOps & Cloud
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🏗️ How I Build AI Solutions
+
+My typical solution lifecycle brings software engineering discipline into AI delivery:
+
+1. **Understand the business problem** — define users, workflows, constraints, and measurable outcomes.
+2. **Prepare and understand data** — validate inputs, explore data quality, engineer features, and establish reproducible datasets.
+3. **Build the intelligence layer** — train/evaluate ML models or compose LLM, RAG, and agent workflows.
+4. **Expose capabilities** — package inference and agent capabilities behind APIs or user interfaces.
+5. **Operationalize** — containerize, configure CI/CD, track experiments/artifacts, and deploy to cloud infrastructure.
+6. **Improve responsibly** — monitor quality, evaluate changes, handle uncertainty, and keep human review where decisions require it.
+
+---
+
+## 📚 Learning & Current Focus
+
+- Advanced Agentic AI and multi-agent orchestration
+- RAG quality, evaluation, and hybrid retrieval
+- LLM fine-tuning and parameter-efficient adaptation
+- MLOps / LLMOps, model serving, and monitoring
+- Cloud-native AI solutions with Azure and AWS
+- Reliable AI systems with traceability, guardrails, and human-in-the-loop review
 
 ---
 
@@ -111,32 +158,11 @@ Here are my recent and active project builds across AI, ML, agentic systems, clo
 
 ---
 
-## 🎓 Learning & Specialization
-
-- Mastery in Artificial Intelligence and Machine Learning
-- Generative AI and LLM Engineering
-- Agentic AI and Multi-Agent Architectures
-- MLOps and LLMOps
-- Cloud-Native AI Systems
-- AI Workflow Automation with n8n
-
----
-
-## 💡 Engineering Philosophy
-
-I believe modern engineering is about combining software architecture, intelligent automation, and data-driven decision-making to build resilient, scalable, and impactful systems.
-
-My journey:
-
-Software Engineering → Data Science → Machine Learning → Deep Learning → Generative AI → Agentic AI → Intelligent Automation
-
----
-
 ## 🤝 Connect
 
 - 🐙 GitHub: [@gangadharp2010](https://github.com/gangadharp2010)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
 
-⭐ Explore my repositories, collaborate on AI ideas, and build next-generation intelligent systems.
+⭐ Explore the repositories, share feedback, and connect on practical AI engineering.
 
-**Build intelligently. Automate relentlessly. Engineer for scale.**
+**Build intelligently. Automate thoughtfully. Engineer for scale.**
