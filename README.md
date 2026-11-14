@@ -29,7 +29,9 @@ The projects below are grouped by the problems they address. Links point to repo
 | [Domain-Specific RAG](https://github.com/gangadharp2010/AIPROJECT/tree/main/10.Build%20a%20Domain%20Specific%20RAG) | Retrieval-augmented generation for a focused knowledge domain |
 | [RAG Assignment & Experiments](https://github.com/gangadharp2010/AIPRACTICE/tree/main/rag_assignment) | Practical RAG pipeline exercises and retrieval-oriented implementation |
 | [MCP Implementation](https://github.com/gangadharp2010/MCP-Implementation) | Model Context Protocol implementation and tool-integration exploration |
-| [Invoice Agent](https://github.com/gangadharp2010/openenv-invoice-agent) | Invoice-focused AI agent project |\n| [Agentic Bug Fixing](https://github.com/gangadharp2010/AIPROJECT/tree/main/19.Agentic%20Bug%20Fixing) | LangGraph repair workflow that diagnoses Python execution failures, proposes code fixes, validates source, retries execution, and presents code diffs |\n| [Trip AI Agent with MCP](https://github.com/gangadharp2010/AIPROJECT/tree/main/17.Trip%20AI%20Agent%20with%20MCP) | MCP-enabled travel agent project with tool-based trip planning, retrieval, and conversational memory |
+| [Invoice Agent](https://github.com/gangadharp2010/openenv-invoice-agent) | Invoice-focused AI agent project |
+| [Agentic Bug Fixing](https://github.com/gangadharp2010/AIPROJECT/tree/main/19.Agentic%20Bug%20Fixing) | LangGraph repair workflow that diagnoses Python execution failures, proposes code fixes, validates source, retries execution, and presents code diffs |
+| [Trip AI Agent with MCP](https://github.com/gangadharp2010/AIPROJECT/tree/main/17.Trip%20AI%20Agent%20with%20MCP) | MCP-enabled travel agent project with tool-based trip planning, retrieval, and conversational memory |
 
 ### 2. Machine Learning, Predictive Analytics & Recommendation
 
@@ -39,7 +41,9 @@ The projects below are grouped by the problems they address. Links point to repo
 | [Uber AI Solutions](https://github.com/gangadharp2010/AIPROJECT/tree/main/04.AI%20Solutions%20for%20Uber) | Applying analytics and ML to ride-hailing use cases |
 | [YouTube Shorts Performance Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/05.YouTube%20Shorts%20Performance%20Prediction) | Modeling content-performance outcomes |
 | [Amazon Product Recommendation System](https://github.com/gangadharp2010/AIPROJECT/tree/main/06.Amazon%20Product%20Recommendation%20System) | Product recommendation and personalization |
-| [Sales Campaign Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/12.Predicting%20Sales%20from%20Campaign%20Data) | Predicting sales outcomes from campaign data |\n| [AI-Powered Customer Retention Analytics](https://github.com/gangadharp2010/AIPROJECT/tree/main/16.AI-Powered%20Customer%20Retention%20Analytics) | Churn-risk prediction, model explainability, customer risk segmentation, and retention recommendations |\n| [Fundamental Stock Analysis AI Agent](https://github.com/gangadharp2010/AIPROJECT/tree/main/15.Fundamental%20Stock%20Analysis%20AI%20Project) | Streamlit research assistant combining company financials, news, specialist agents, and assumption-driven DCF analysis |
+| [Sales Campaign Prediction](https://github.com/gangadharp2010/AIPROJECT/tree/main/12.Predicting%20Sales%20from%20Campaign%20Data) | Predicting sales outcomes from campaign data |
+| [AI-Powered Customer Retention Analytics](https://github.com/gangadharp2010/AIPROJECT/tree/main/16.AI-Powered%20Customer%20Retention%20Analytics) | Churn-risk prediction, model explainability, customer risk segmentation, and retention recommendations |
+| [Fundamental Stock Analysis AI Agent](https://github.com/gangadharp2010/AIPROJECT/tree/main/15.Fundamental%20Stock%20Analysis%20AI%20Project) | Streamlit research assistant combining company financials, news, specialist agents, and assumption-driven DCF analysis |
 | [No-Show Prediction](https://github.com/gangadharp2010/noshow-mlflow) | Appointment no-show classification with model training, holdout / cross-validation evaluation, and Optuna hyperparameter search |
 | [Water Main Burst Prediction](https://github.com/gangadharp2010/water-main-burst-mlflow) | Ranking water mains by burst risk to help prioritize preventive inspections |
 | [Air Quality Alert Service](https://github.com/gangadharp2010/Containerizing-Air-Quality-Alert-Services) | ML-backed air-quality alert service packaged for containerized execution |
@@ -49,7 +53,8 @@ The projects below are grouped by the problems they address. Links point to repo
 
 | Project | Problem / capability |
 |---|---|
-| [Street View Blurring System (YOLOv8)](https://github.com/gangadharp2010/AIPROJECT/tree/main/07.Street%20View%20Blurring%20System(yolo%208)) | Computer-vision-based detection for privacy-oriented image blurring |\n| [Driver Drowsiness Detection](https://github.com/gangadharp2010/AIPROJECT/tree/main/14.Driver%20Drowsiness%20Detection%20System) | MobileNetV2 transfer learning, facial-image classification, model evaluation, and TensorFlow Lite conversion / quantization |
+| [Street View Blurring System (YOLOv8)](https://github.com/gangadharp2010/AIPROJECT/tree/main/07.Street%20View%20Blurring%20System(yolo%208)) | Computer-vision-based detection for privacy-oriented image blurring |
+| [Driver Drowsiness Detection](https://github.com/gangadharp2010/AIPROJECT/tree/main/14.Driver%20Drowsiness%20Detection%20System) | MobileNetV2 transfer learning, facial-image classification, model evaluation, and TensorFlow Lite conversion / quantization |
 | [TuneCraft — LoRA Fine-Tuning](https://github.com/gangadharp2010/AIPROJECT/tree/main/11.Project%20TuneCraft(LORA%20FINE%20TUNING)) | Parameter-efficient fine-tuning experiments using LoRA |
 | [Vendor Verdict AI](https://github.com/gangadharp2010/AIPROJECT/tree/main/13.Vendor-Verdict-AI) | AI-assisted vendor assessment / decision-support project |
 
@@ -65,7 +70,17 @@ The projects below are grouped by the problems they address. Links point to repo
 
 ---
 
-### 5. Industrial & Enterprise AI Applications\n\n| Project | Problem / capability |\n|---|---|\n| [Fire Sprinkler Monitoring & AI Analytics Platform](https://github.com/gangadharp2010/AIPROJECT/tree/main/18.fire-sprinkler-monitoring-ai-platform) | Wet/dry sprinkler telemetry dashboard and event-processing starter using Angular, ASP.NET Core, PostgreSQL, SignalR, and a Python advisory analytics API |\n\n> **Safety boundary:** The sprinkler repository describes a development demonstration with synthetic events and advisory analytics. It is not a certified or listed fire alarm system and must not control or alter life-safety functions.\n\n---\n\n## 🧩 Engineering & MLOps Foundations
+### 5. Industrial & Enterprise AI Applications
+
+| Project | Problem / capability |
+|---|---|
+| [Fire Sprinkler Monitoring & AI Analytics Platform](https://github.com/gangadharp2010/AIPROJECT/tree/main/18.fire-sprinkler-monitoring-ai-platform) | Wet/dry sprinkler telemetry dashboard and event-processing starter using Angular, ASP.NET Core, PostgreSQL, SignalR, and a Python advisory analytics API |
+
+> **Safety boundary:** The sprinkler repository describes a development demonstration with synthetic events and advisory analytics. It is not a certified or listed fire alarm system and must not control or alter life-safety functions.
+
+---
+
+## 🧩 Engineering & MLOps Foundations
 
 I approach AI projects as software systems, not just notebooks. The following repositories show work around packaging, serving, tracking, automation, and deployment:
 
@@ -75,7 +90,8 @@ I approach AI projects as software systems, not just notebooks. The following re
 - **Containers:** Dockerfiles and containerized application services.
 - **Cloud deployment:** AWS ECS Fargate deployment documented in the Frostline project; exploration of Azure AI/cloud services.
 - **CI/CD:** workflow and deployment automation patterns.
-- **Application engineering:** Python services alongside .NET / ASP.NET Core, C#, Angular, REST APIs, SignalR, PostgreSQL, relational databases, and distributed systems.\n- **Agentic developer tooling:** LangGraph-based execution / repair loops, syntax validation, bounded retries, and code-diff presentation.
+- **Application engineering:** Python services alongside .NET / ASP.NET Core, C#, Angular, REST APIs, SignalR, PostgreSQL, relational databases, and distributed systems.
+- **Agentic developer tooling:** LangGraph-based execution / repair loops, syntax validation, bounded retries, and code-diff presentation.
 
 ---
 
